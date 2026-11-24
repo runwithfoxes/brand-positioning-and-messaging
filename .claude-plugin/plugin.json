@@ -8,5 +8,13 @@
   },
   "homepage": "https://runwithfoxes.com/course",
   "repository": "https://github.com/runwithfoxes/brand-positioning-and-messaging",
-  "keywords": ["marketing", "positioning", "messaging", "brand voice", "copywriting", "tone of voice"]
+  "keywords": [
+    "marketing",
+    "positioning",
+    "messaging",
+    "brand voice",
+    "copywriting",
+    "tone of voice"
+  ],
+  "license": "MIT"
 }
