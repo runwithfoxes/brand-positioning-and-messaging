@@ -16,5 +16,6 @@
     "copywriting",
     "tone of voice"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "icon": "./.claude-plugin/icon.png"
 }
